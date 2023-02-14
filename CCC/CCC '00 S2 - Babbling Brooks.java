@@ -1,3 +1,5 @@
+// From: https://dmoj.ca/problem/ccc00s2
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
